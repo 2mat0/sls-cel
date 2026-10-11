@@ -1,0 +1,12 @@
+{
+  "early": "hidden",
+  "whileFontsPending": "hidden",
+  "ready": {
+    "visibility": "visible",
+    "fonts": "loaded",
+    "loader": false,
+    "canvas": 1440,
+    "busy": "false"
+  },
+  "errors": []
+}

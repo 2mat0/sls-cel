@@ -1,0 +1,16 @@
+{
+  "admitted": false,
+  "reasons": [
+    "foreground coverage 1.000 > 0.97 (no background to segment against — silhouette not isolable)"
+  ],
+  "provenance": {
+    "viewpoint": "reference",
+    "sourcePath": "C:\\Users\\matth\\sls-cel\\reference\\sls-nasa.jpg",
+    "width": 1041,
+    "height": 784,
+    "foregroundCoverage": 1.0,
+    "largestComponentFraction": 1.0,
+    "pHash": 18428659259211295232,
+    "duplicateOfHash": null
+  }
+}

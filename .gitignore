@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vercel/
+.img2threejs/
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Generated distribution archive; source and standalone viewer are tracked.
+SLS-cel-model.zip

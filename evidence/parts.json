@@ -1,0 +1,86 @@
+{
+  "model": "SLS Cel",
+  "parts": [
+    {
+      "name": "core",
+      "kind": "part",
+      "module": "core"
+    },
+    {
+      "name": "upper-stack",
+      "kind": "part",
+      "module": "upper-stack"
+    },
+    {
+      "name": "abort-tower",
+      "kind": "part",
+      "module": "abort-tower"
+    },
+    {
+      "name": "engine-section",
+      "kind": "part",
+      "module": "engine-section"
+    },
+    {
+      "name": "engine-0",
+      "kind": "part",
+      "module": "engine-0"
+    },
+    {
+      "name": "engine-1",
+      "kind": "part",
+      "module": "engine-1"
+    },
+    {
+      "name": "engine-2",
+      "kind": "part",
+      "module": "engine-2"
+    },
+    {
+      "name": "engine-3",
+      "kind": "part",
+      "module": "engine-3"
+    },
+    {
+      "name": "booster-port",
+      "kind": "part",
+      "module": "booster-port"
+    },
+    {
+      "name": "nose-port",
+      "kind": "integral",
+      "module": "nose-port"
+    },
+    {
+      "name": "nozzle-port",
+      "kind": "integral",
+      "module": "nozzle-port"
+    },
+    {
+      "name": "booster-starboard",
+      "kind": "part",
+      "module": "booster-starboard"
+    },
+    {
+      "name": "nose-starboard",
+      "kind": "integral",
+      "module": "nose-starboard"
+    },
+    {
+      "name": "nozzle-starboard",
+      "kind": "integral",
+      "module": "nozzle-starboard"
+    },
+    {
+      "name": "intertank-ribs",
+      "kind": "integral",
+      "module": "intertank-ribs"
+    },
+    {
+      "name": "feed-line",
+      "kind": "integral",
+      "module": "feed-line"
+    }
+  ],
+  "unnamedMeshes": 0
+}

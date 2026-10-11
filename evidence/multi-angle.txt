@@ -1,0 +1,26 @@
+{
+  "referenceAreaFraction": 0.10004722222222222,
+  "angles": [
+    {
+      "path": "evidence\\turntable-90.png",
+      "areaFraction": 0.06172847222222222,
+      "ratio": 0.6169933642446622,
+      "degenerate": false
+    },
+    {
+      "path": "evidence\\turntable-180.png",
+      "areaFraction": 0.10004791666666667,
+      "ratio": 1.0000069411666714,
+      "degenerate": false
+    },
+    {
+      "path": "evidence\\turntable-270.png",
+      "areaFraction": 0.061726388888888886,
+      "ratio": 0.6169725407446484,
+      "degenerate": false
+    }
+  ],
+  "degenerate": false,
+  "collapseRatio": 0.15,
+  "note": "deterministic; zero token; a flat-plane-faking-a-volume collapses in silhouette area when orbited"
+}

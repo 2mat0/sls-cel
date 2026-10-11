@@ -1,0 +1,25 @@
+STATE status=active step=reference-suitability pass=blockout loop=0/3 total=0/6
+next command: Read grimoire/intake/validation_rubric.md and record a pass, conditional, or reject verdict for reference/sls-nasa.jpg
+pending mandatory steps:
+- reference-suitability
+- reference-admission
+- local-spec-search
+- pre-spec-assessment
+- detail-inventory
+- projection-route
+- spec-authoring
+- material-evidence
+- material-spec-wiring
+- strict-validation
+- build-current-pass
+- render-capture
+- review-contract-read
+- tier1-diagnostics
+- multi-angle-review
+- pass-gate-check
+- ai-review-recorded
+- pipeline-sync
+- part-coverage
+- action-ready
+- emission-target
+- plugin-gates

@@ -1,0 +1,96 @@
+{
+  "passed": false,
+  "checks": {
+    "silhouetteIoU": 0.1008,
+    "aspectRatioDelta": 0.7598,
+    "scaleDelta": 0.8466,
+    "bilateralSymmetryError": 0.0083,
+    "colorDelta": {
+      "checked": 17,
+      "maxDeltaE": 10.74,
+      "perComponent": [
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 6.92
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        },
+        {
+          "componentId": null,
+          "deltaE": 6.92
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.74
+        }
+      ],
+      "gated": false
+    }
+  },
+  "failures": [
+    "silhouette IoU 0.101 is below threshold 0.85",
+    "aspect-ratio delta 0.760 exceeds threshold 0.05",
+    "scale delta 0.847 exceeds threshold 0.08",
+    "blockout requires --map-stripped-render evidence"
+  ],
+  "maskWarnings": [
+    "reference: image is not clearly isolated from background; using most pixels as material evidence"
+  ],
+  "renderHash": "6ef7c20d4ac406bd",
+  "passId": "blockout"
+}
+STATUS pass=blockout completed=0 blocked=blockout requires a browser screenshot and self-correction review before structural-pass unlocks next=diagnose_render.py

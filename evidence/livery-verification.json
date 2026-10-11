@@ -1,0 +1,19 @@
+{
+  "errors": [],
+  "livery": [
+    "america250-port",
+    "nasa-worm-port",
+    "america250-starboard",
+    "nasa-worm-starboard",
+    "orion-nasa-insignia",
+    "orion-esa",
+    "orion-nasa-worm",
+    "orion-flag",
+    "orion-usa"
+  ],
+  "unparented": [],
+  "triangles": 27635,
+  "missingFromGLB": [],
+  "doubleSidedMaterials": 19,
+  "glbBytes": 2084548
+}
